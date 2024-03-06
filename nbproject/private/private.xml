@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/registration.html</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/controller/LoginControllerServlet.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/dao/VoteDAO.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/jScript/login.js</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/adminoptions.jsp</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/jScript/adminoptions.js</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/showcandidate.jsp</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/accessdenied.html</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/dto/VoteDTO.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/dao/CandidateDAO.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/dbutil/DBConnection.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/electionresult.jsp</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/controller/AddNewCandidateControllerServlet.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/controller/ElectionResultControllerServlet.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/controller/AdminControllerServlet.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/stylesheet/login.css</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/managecandidate.jsp</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/jScript/jquery.js</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/controller/VotingControllerServlet.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/controller/AddCandidateControllerServlet.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/login.html</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/adminactions.jsp</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/stylesheet/registration.css</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/loginresponse.jsp</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/src/java/eVoting/dao/UserDAO.java</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/stylesheet/backgroundimage.css</file>
+            <file>file:/C:/Users/91756/OneDrive/Documents/NetBeansProjects/VoteForChange/web/jScript/Vote.js</file>
+        </group>
+    </open-files>
+</project-private>
