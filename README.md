@@ -15,4 +15,25 @@
     <th>Topics</th>
     <th>Description</th>
   </tr>
+   <tr>
+    <th>JSP</th>
+    <th>Java Server page ,enables us to inject dynamic content into a static page</th>
+  </tr>
+   <tr>
+    <th>DAO</th>
+    <th>Data Access Object ,is an object that provide an abstract interface to some type of database or other persistence mechanism</th>
+  </tr>
+   <tr>
+    <th>DTO</th>
+    <th>A data Transfer object is an object that is used to encapsulate data and send it from one subsystem of an application to another .DTO are most commonly used by the service layer in an N-Tier application to transfer data between itself and UI layer</th>
+  </tr>
+   <tr>
+    <th>Web API</th>
+    <th>A framework that makes it easy to build HTTP services that reach a broard range of clients,including browser and mobile devices</th>
+  </tr>
+   <tr>
+    <th>API</th>
+    <th>API full form is an Application Programming Interface that is a collection of communication protocols and subroutines used by various programs to communicate between them. A programmer can make use of various API tools to make their program easier and simpler. Also, an API facilitates programmers with an efficient way to develop their software programs. </th>
+  </tr>
+  
 </Table>
