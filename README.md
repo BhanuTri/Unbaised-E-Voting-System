@@ -35,5 +35,9 @@
     <th>API</th>
     <th>API full form is an Application Programming Interface that is a collection of communication protocols and subroutines used by various programs to communicate between them. A programmer can make use of various API tools to make their program easier and simpler. Also, an API facilitates programmers with an efficient way to develop their software programs. </th>
   </tr>
+   <tr>
+    <th>Tomcat</th>
+    <th>It is an open-source Java servlet container that implements many Java Enterprise Specs such as the Websites API, Java-Server Pages and last but not least, the Java Servlet. The complete name of Tomcat is "Apache Tomcat" it was developed in an open, participatory environment and released in 1998 for the very first time. It began as the reference implementation for the very first Java-Server Pages and the Java Servlet API. </th>
+  </tr>
   
 </Table>
