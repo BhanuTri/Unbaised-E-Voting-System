@@ -5,3 +5,4 @@
 <p> Server used: Apache Tomcat Server</p>
 <h2>Two Module in this project</h2>
 <h3> 1.Voter module</h3>
+<img src="https://github.com/BhanuTri/Unbaised-E-Voting-System/blob/main/Voter.jpg">
