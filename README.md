@@ -8,5 +8,5 @@
 <img src="https://github.com/BhanuTri/Unbaised-E-Voting-System/blob/main/Voter.jpg">
 <p>Above image is giving idea about work of the voter module</p>
 <h3>2.Admin Module</h3>
-<img src="https://github.com/BhanuTri/Unbaised-E-Voting-System/blob/main/Admin.jpg">
+<img src="https://github.com/BhanuTri/Unbaised-E-Voting-System/blob/main/Admin.jpg" align="left">
 <p>Above image give the idea about work of the Admin module</p>
