@@ -1,1 +1,1 @@
-Java Full Stack Web Application Development
+Java Full Stack Web Application
