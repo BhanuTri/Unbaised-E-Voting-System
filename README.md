@@ -3,3 +3,5 @@
 <p>It is design by using Java(JSE & JEE), HTML, CSS,JavaScript, JSP, Servlet, Session tracking, JDBC, Ajax, JQuery and JSON.</p>
 <p> Database used: Oracle database</p>
 <p> Server used: Apache Tomcat Server</p>
+<h2>Two Module in this project</h2>
+<h3> 1.Voter module</h3>
